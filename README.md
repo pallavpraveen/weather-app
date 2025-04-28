@@ -29,7 +29,7 @@ A modern, responsive weather application built with React, TypeScript, and Chakr
 
 ## 🚀 Live Demo
 
-Check out the live application: [Weather Dashboard](https://YOUR_USERNAME.github.io/weatherapp/)
+Check out the live application: [Weather Dashboard](https://pallavpraveen.github.io/weather-app/)
 
 ## 🧰 Prerequisites
 
@@ -146,4 +146,4 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 ---
 
-Made with ❤️ and React 
+Made with ❤️ and React
